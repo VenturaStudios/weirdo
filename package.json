@@ -1,0 +1,27 @@
+{
+  "name": "weird",
+  "version": "0.0.1",
+  "description": "A weird package for random purposes",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha -R spec test/**/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafinskipg/weird.git"
+  },
+  "keywords": [
+    "weird",
+    "random"
+  ],
+  "author": "Rafael Pedrola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafinskipg/weird/issues"
+  },
+  "homepage": "https://github.com/rafinskipg/weird#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
