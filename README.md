@@ -1,2 +1,2 @@
-# weird
+# weirdooooo
 A weird package
